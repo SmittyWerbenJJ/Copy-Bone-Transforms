@@ -17,8 +17,11 @@ A blender plugin to copy bone transforms of one armature to another armature hav
 - Click on "Add Copy Transform Constraints" to copy the bone transforms from the source armature to the target armature.- 
 - Click on "Remove Copy Transform Constraints" to remove the Copy Transform constraints that were created using the addon
 
+## Demo:
+![blender_Zc6ZihkpUH](https://user-images.githubusercontent.com/35438764/233882878-6a465463-29c2-46b4-91a2-310982c2c8b2.gif)
 
 # Note:
     Source and Target must be Armatures,otherwise the tool will not work
     Both Armatures must have the same bone names.
     If the addon does not show up, read the Installation instruction.
+
